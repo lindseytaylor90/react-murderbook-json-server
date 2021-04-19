@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "profilePic": "images/story/oj.jpeg",
+      "message": "glove doesnt fit",
+      "timestamp": "01/01/2021, 10:00 AM",
+      "username": "OJ",
+      "image": null
+    },
+    {
+      "id": 2,
+      "profilePic": "images/story/snoop.jpg",
+      "message": "snitches get stiches",
+      "timestamp": "01/01/2021, 1:00 AM",
+      "username": "snoop",
+      "image": null
+    },
+    {
+      "id": 3,
+      "profilePic": "images/story/claudinelonget.jpg",
+      "message": "cheaters get murdered",
+      "timestamp": "01/01/2021, 12:00 AM",
+      "username": "cauldine",
+      "image": null
+    },
+    {
+      "id": 4,
+      "profilePic": "/story/raecarruth.jpg",
+      "message": "killed the bitch",
+      "timestamp": "01/01/2021, 11:00 AM",
+      "username": "raecarruth",
+      "image": null
+    },
+    {
+      "id": 5,
+      "profilePic": "images/story/sid.jpg",
+      "message": "got caught slippin",
+      "timestamp": "01/01/2021, 8:00 AM",
+      "username": "sid",
+      "image": null
+    }
+  ],
+  "user": {
+    "photoURL": "images/jop.jpg",
+    "displayName": "Taylor"
+  }
+}

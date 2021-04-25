@@ -6,7 +6,7 @@
       "message": "glove doesnt fit",
       "timestamp": "01/01/2021, 10:00 AM",
       "username": "OJ",
-      "image": null
+      "image": ""
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "message": "snitches get stiches",
       "timestamp": "01/01/2021, 1:00 AM",
       "username": "snoop",
-      "image": null
+      "image": ""
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "message": "cheaters get murdered",
       "timestamp": "01/01/2021, 12:00 AM",
       "username": "cauldine",
-      "image": null
+      "image": ""
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "message": "killed the bitch",
       "timestamp": "01/01/2021, 11:00 AM",
       "username": "raecarruth",
-      "image": null
+      "image": ""
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "message": "got caught slippin",
       "timestamp": "01/01/2021, 8:00 AM",
       "username": "sid",
-      "image": null
+      "image": ""
     }
   ],
   "user": {
